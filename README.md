@@ -41,55 +41,69 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   Step 1:
-<img src="https://i.imgur.com/iptUhEI.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/f10e93bd-8b3c-4908-ad52-e9cd28cca561)
+
 </p>
 <p>
-Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Storage accounts" and select it.
+Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Resource Group" and select it. Go through the process of setting your Resource Group.
 </p>
 <br />
 
 <p>
   Step 2:
-<img src="https://i.imgur.com/hYekkug.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/1e751e42-6efd-4372-b5eb-f4704ed3b87d)
+
 </p>
 <p>
-After you click "Storage accounts", you will be taken to this screen. Once there, click on "Create".
+After you set up your Resource Group, you will now set up a Virtual Machine in Azure. Within the search bar, type "Virtual Machine" and select it. Go through the proper steps of setting up a Virtual Machine, as outlined in previous tutorials.
 </p>
 <br />
 
 <p>
   Step 3:
-<img src="https://i.imgur.com/jux9fkp.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/851716f9-236a-4f08-b5a8-3d0e19fc1b2f)
+
+
 </p>
 <p>
-Once you are at this screen, you can begin configuring your storage account. Under "Project Details", make sure that you have the correct subscription and resource group selected from the drop down menus. Since you are building off the previous tutorial, you can go ahead and select "Azure subsciption 1" and "resource-group-lab-01". Under "Instance Details", you will need to create a globally unique storage account name. I went with "mikecoursecareerslab01", but you can choose something that is unique to you. Next, select the correct region that most closely matches where you live. After that, you can click the "Review" button at the bottom of the screen.
+Once you've set up your Virtual Machine, you are going to use Remote Desktop to remotely connect to your VM. Copy the IP address for your VM and paste it into the Remote Desktop tool. Enter your username and password for your VM.
 </p>
 <br />
 
 <p>
   Step 4:
-<img src="https://i.imgur.com/FgrJl29.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/ae3ab6d7-60bd-4350-8d1a-8beba4a86eb2)
+
 </p>
 <p>
-Azure will now run through a quick validation process. Once that is complete, you can click on the "Create" button at the bottom left of the screen.
+Once you are remotely connected to you VM, open a web browser and open the Google Drive folder that contains the download files for osTicket.
 </p>
 <br />
 
 <p>
   Step 5:
-<img src="https://i.imgur.com/U3TxVhV.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/612bca89-404d-409e-9d81-1042a865cd47)
+
 </p>
 <p>
-Your storage account will now go through a deployment process which may take about 30 seconds to a minute. Once completed, you will see a green check mark next to "Your deploymeny is complete" and you can now click on the "Go to resource" button.
+Next, open up the Control Panel in Windows and click on Program --> click on Turn Windows feature on or off.
 </p>
 <br />
 
 <p>
   Step 6:
-<img src="https://i.imgur.com/QXIHGL2.png"/>
+  <br />
+
+<img src="https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/8299e93e-12f0-4312-92d7-0870657aa9e4" height="50%" width="50%"/>
+
 </p>
 <p>
-You will be taken to the portal for your storage account. We are now ready to upload a basic text file. To do so, you will want to create a folder within your storage account, also known as a container. On the left of your screen, click on "Containers".
+Install / Enable IIS in Windows with CGI. Make sure every box that is shown in the above image is selected. Then click on OK.
 </p>
 <br />
 
