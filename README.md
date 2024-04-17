@@ -46,7 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Resource Group" and select it. Go through the process of setting your Resource Group.
+Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Resource Group" and select it. Go through the process of setting up your Resource Group.
 </p>
 <br />
 
@@ -91,7 +91,7 @@ Once you are remotely connected to you VM, open a web browser and open the Googl
 
 </p>
 <p>
-Next, open up the Control Panel in Windows and click on Program --> click on Turn Windows feature on or off.
+Next, open up the Control Panel in Windows and click on "Program". Then click on "Turn Windows feature on or off".
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Next, open up the Control Panel in Windows and click on Program --> click on Tur
 
 </p>
 <p>
-Install / Enable IIS in Windows with CGI. Make sure every box that is shown in the above image is selected. Then click on OK.
+Install / Enable IIS in Windows with CGI. Make sure every box that is shown in the above image is selected. Then click on "OK".
 </p>
 <br />
 
