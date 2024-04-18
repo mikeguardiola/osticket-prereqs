@@ -60,7 +60,15 @@ Within the Azure Portal, navigate to the search bar at the top. Within the searc
 
 </p>
 <p>
-After you set up your Resource Group, you will need to set up a Virtual Machine in Azure. Within the search bar, type "Virtual Machine" and select it. Go through the proper steps of setting up a Virtual Machine, as outlined in previous tutorials.
+After you set up your Resource Group, you will need to set up a Virtual Machine in Azure. Within the search bar, type "Virtual Machine" and select it. Go through the proper steps of setting up a Virtual Machine, as outlined in previous tutorials. Set up your Virtual Machine with the following details:
+ <br />
+ 
+- Resource group: resource-group-osticket
+- Virtual machine name: vm-osticket
+- Region: select the correct region for your location
+- Image: Windows 10 Pro, version 22H2 - x64 Gen2
+- Size: Standard_D4s_v3 - 4 vcpus, 16 GiB memory
+  
 </p>
 <br />
 
