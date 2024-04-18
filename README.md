@@ -152,19 +152,53 @@ Once the files download, open up the File Explorer and go to Downloads. Double c
 
 <p>
   Step 10:
-<img src="https://i.imgur.com/A09i2FB.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/4dead6e0-9ef1-4874-ba04-c7e8f9a28408)
+
 </p>
 <p>
-Now you are going to want to upload a basic text file into your container.
+Now go back to the Google Drive folder. Click on "Rewrite Module" and download the files.
 </p>
 <br />
 
 <p>
   Step 11:
-<img src="https://i.imgur.com/VjKDm35.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/ad70ab3c-d9e8-4844-9ca5-c6b1e0a8ee67)
+
 </p>
 <p>
-First, you will need to create a text document and save it to your desktop. For this tutorial, I will be using Notepad. You can access this program by pressing the Windows Key and typing "Notepad". Once you have it open, add some text to your file and save it to your desktop.
+Once the files download, open up your File Explorer again and go to Downloads. Click on the download files and go through the installation steps.
+</p>
+<br />
+
+<p>
+  Step 12:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/18bdef96-4316-4f1a-96c0-5bf1b8f5a319)
+
+</p>
+<p>
+Next, you need to create a new folder in the (C:) Drive of your VM. Open up your File Explorer. Click on "This PC". Then click on the "Windows (C:)". Once there, right click on the empty space and create a new folder. Name the new folder "PHP".
+</p>
+<br />
+
+<p>
+  Step 13:
+<img src="https://i.imgur.com/OwVZ16r.png"/>
+</p>
+<p>
+Now that the text file has been uploaded, you can edit, download, delete or choose one of the other available options.
+</p>
+<br />
+This will conclude your tutorial on how to create a storage account in Azure. Well done and thank you for following along!
+
+<p>
+  Step 12:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
 </p>
 <br />
 
@@ -178,11 +212,37 @@ Now, head back over to your container. Click on the "Upload" button. You can eit
 <br />
 
 <p>
-  Step 13:
-<img src="https://i.imgur.com/OwVZ16r.png"/>
+  Step 12:
+<img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
-Now that the text file has been uploaded, you can edit, download, delete or choose one of the other available options.
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
 </p>
 <br />
-This will conclude your tutorial on how to create a storage account in Azure. Well done and thank you for following along!
+
+<p>
+  Step 12:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+<br />
+
+<p>
+  Step 12:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+<br />
+
+<p>
+  Step 12:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+<br />
