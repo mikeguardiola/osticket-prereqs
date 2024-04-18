@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
+<img src="https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/9ba47fd6-2434-483d-a4e6-86e9d99b46f3" height="65%" width="65%"/>
+ 
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -47,7 +49,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Resource Group" and select it. Go through the process of setting up your Resource Group.
+Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Resource Group" and select it. Go through the process of setting up your Resource Group. You can name your resource group "resource-group-osticket". Select the region that most closely matches where you live.
 </p>
 <br />
 
@@ -58,7 +60,7 @@ Within the Azure Portal, navigate to the search bar at the top. Within the searc
 
 </p>
 <p>
-After you set up your Resource Group, you will now set up a Virtual Machine in Azure. Within the search bar, type "Virtual Machine" and select it. Go through the proper steps of setting up a Virtual Machine, as outlined in previous tutorials.
+After you set up your Resource Group, you will need to set up a Virtual Machine in Azure. Within the search bar, type "Virtual Machine" and select it. Go through the proper steps of setting up a Virtual Machine, as outlined in previous tutorials.
 </p>
 <br />
 
