@@ -212,16 +212,25 @@ Next, you are going to download and install the file named "VC_redist.x86.exe". 
 
 </p>
 <p>
-Next, you are going to download and install the file named "MySQL_5.5.6". Open the Google Drive folder again. Download the file and go through the installation steps.
+Next, you are going to download and install the file named "MySQL_5.5.6". Open the Google Drive folder. Download the file and go through the installation steps.
 </p>
 <br />
 
 <p>
   Step 16:
-<img src="https://i.imgur.com/J80CLl7.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/8c04f1f6-d721-47b2-908f-fb002f4c098e)
+
 </p>
 <p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+Once everything is installed, you will need to set up some credentials for MySQL. Follow these steps:
+ <br />
+ 
+- Select "Standard Configuration" -> Next
+- Select "Install as a Windows Service" -> Next
+- Create a username and password -> Next
+- Click on "Execute" -> Finish
+ 
 </p>
 <br />
 
