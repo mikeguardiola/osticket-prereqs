@@ -185,16 +185,39 @@ Next, you need to create a new folder in the (C:) Drive of your VM. Open up your
 
 <p>
   Step 13:
-<img src="https://i.imgur.com/OwVZ16r.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/26bfbb4e-2d39-41e4-bda6-c862cae79ba0)
+
 </p>
 <p>
-Now that the text file has been uploaded, you can edit, download, delete or choose one of the other available options.
+Next, head back to the Google Drive folder. Download the file named "php-7.3.8-nts-Win32-VC15-x86". Once the files download, open you File Explorer and go to Downloads. Right click on the file and click "Extract All...". Make sure to then select the correct destination folder. You will be using the PHP folder that you previously created in the (C:) drive. Then click on "Extract".
 </p>
 <br />
-This will conclude your tutorial on how to create a storage account in Azure. Well done and thank you for following along!
 
 <p>
-  Step 12:
+  Step 14:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/3d241c2a-ac5f-48fd-9348-05a8f9d4e71b)
+
+</p>
+<p>
+Next, you are going to download and install the file named "VC_redist.x86.exe". Go back to your Google Drive folder again. Download the file and go through the installation steps.
+</p>
+<br />
+
+<p>
+  Step 15:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/8d3c3a5d-c2ae-4cfe-a36c-9fcefb0e3fe2)
+
+</p>
+<p>
+Next, you are going to download and install the file named "MySQL_5.5.6". Open the Google Drive folder again. Download the file and go through the installation steps.
+</p>
+<br />
+
+<p>
+  Step 16:
 <img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
@@ -203,7 +226,7 @@ Now, head back over to your container. Click on the "Upload" button. You can eit
 <br />
 
 <p>
-  Step 12:
+  Step 17:
 <img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
@@ -212,7 +235,7 @@ Now, head back over to your container. Click on the "Upload" button. You can eit
 <br />
 
 <p>
-  Step 12:
+  Step 18:
 <img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
@@ -221,25 +244,7 @@ Now, head back over to your container. Click on the "Upload" button. You can eit
 <br />
 
 <p>
-  Step 12:
-<img src="https://i.imgur.com/J80CLl7.png"/>
-</p>
-<p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
-</p>
-<br />
-
-<p>
-  Step 12:
-<img src="https://i.imgur.com/J80CLl7.png"/>
-</p>
-<p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
-</p>
-<br />
-
-<p>
-  Step 12:
+  Step 19:
 <img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
