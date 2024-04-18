@@ -77,7 +77,6 @@ After you set up your Resource Group, you will need to set up a Virtual Machine 
  
 ![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/851716f9-236a-4f08-b5a8-3d0e19fc1b2f)
 
-
 </p>
 <p>
 Once you've set up your Virtual Machine, you are going to use Remote Desktop to remotely connect to your VM. Copy the IP address for your VM and paste it into the Remote Desktop tool. Enter your username and password for your VM.
@@ -120,27 +119,34 @@ Install / Enable IIS in Windows with CGI. Make sure every box that is shown in t
 
 <p>
   Step 7:
-<img src="https://i.imgur.com/2UeninD.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/86d8e001-eefb-47db-9985-6b86efe1d0be)
+
 </p>
 <p>
-Once you are at this screen, click on "+ Container".
+Now you are going to test the web server to make sure IIS was installed correctly. Open up a web broswer tab in your VM, type "127.0.0.1" and press Enter. If this screen pops up then you know that IIS was installed correctly.
 </p>
 <br />
 
 <p>
   Step 8:
-<img src="https://i.imgur.com/6gYK0gP.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/6b958b69-5f5e-4236-8863-7ebca7877b5e)
+
 </p>
 <p>
-A new window will open up on the right side of your screen to edit your container. Give your container a unique name. You can leave the "Public access level" to the default setting of "Private". When you are finished, click on the "Create" button.
+Next, open up your Google Drive folder containing the download files. Click on "PHP Manager for IIS" and download the files.
 </p>
+<br />
 
 <p>
   Step 9:
-<img src="https://i.imgur.com/aoajfg1.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/492e7a1a-7988-4f2e-8480-a000a0e96a71)
+
 </p>
 <p>
-Once your container has been created, go ahead an click on it to enter your container's portal.
+Once the files download, open up the File Explorer and go to Downloads. Double click on the download files and go through the installation steps.
 </p>
 <br />
 
