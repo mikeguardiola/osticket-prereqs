@@ -190,7 +190,7 @@ Next, you need to create a new folder in the (C:) Drive of your VM. Open up your
 
 </p>
 <p>
-Next, head back to the Google Drive folder. Download the file named "php-7.3.8-nts-Win32-VC15-x86". Once the files download, open you File Explorer and go to Downloads. Right click on the file and click "Extract All...". Make sure to then select the correct destination folder. You will be using the PHP folder that you previously created in the (C:) drive. Then click on "Extract".
+Next, head back to the Google Drive folder. Download the file named "php-7.3.8-nts-Win32-VC15-x86". Once the files download, open your File Explorer and go to Downloads. Right click on the file and click "Extract All...". Make sure to then select the correct destination folder. You will be using the PHP folder that you previously created in the (C:) drive. Then click on "Extract".
 </p>
 <br />
 
