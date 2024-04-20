@@ -267,27 +267,33 @@ Back in the IIS Manager, click on the server name in the top left corner. After 
 </p>
 
 <p>
-  Step 19:
-<img src="https://i.imgur.com/J80CLl7.png"/>
+  Step 20:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/a1203702-57b3-486c-ac79-9ba74603f84b)
+
 </p>
 <p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+Now, go back to the Google Drive downloads folder and download the file named "osTicket-v1.15.8". Open the File Explorer and navigate to the Downloads folder. Click on the osTicket file. Open up a second File Explorer and navigate to the (C:) Drive. Once there, click on "inetpup" -> "wwwroot".
 </p>
 
 <p>
-  Step 19:
-<img src="https://i.imgur.com/J80CLl7.png"/>
+  Step 21:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/da80c2b6-57ab-4eba-9c7a-753f29a35329)
+
 </p>
 <p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+Drag and drop the "upload" file folder into the "wwwroot" folder. Rename the "upload" folder to "osTicket".
 </p>
 
 <p>
-  Step 19:
-<img src="https://i.imgur.com/J80CLl7.png"/>
+  Step 22:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/2c0f1080-681f-4b2a-aeb1-aa4c3c68ad95)
+
 </p>
 <p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+Go back to IIS and restart the server.
 </p>
 
 <p>
