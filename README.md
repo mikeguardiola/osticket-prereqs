@@ -236,21 +236,107 @@ Once everything is installed, you will need to set up some credentials for MySQL
 
 <p>
   Step 17:
-<img src="https://i.imgur.com/J80CLl7.png"/>
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/99a79ccd-893b-4fe3-aa3b-d8a298d767d2)
+
 </p>
 <p>
-Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+Next, go ahead and open the Windows Start Menu and type "IIS". Right click on IIS and select "Run as adminstrator".
 </p>
 <br />
 
 <p>
   Step 18:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/9ca991a1-2640-4619-8a0a-9b00998ded79)
+
+</p>
+<p>
+After you open IIS, find and click on the icon that says "PHP Manager". Then click on "Register new PHP version". A new window will open up - click on the the 3 dots to browse for the right file. The File Explorer will now open. Locate the PHP folder that you made previously and click on the file named "php-cgi" and click "Open".
+</p>
+<br />
+
+<p>
+  Step 19:
+ 
+![image](https://github.com/mikeguardiola/osticket-prereqs/assets/126979089/074c94ef-6bb5-4154-bd91-958c49d365a1)
+
+</p>
+<p>
+Back in the IIS Manager, click on the server name in the top left corner. After that, click on "Restart" in the far right corner.
+</p>
+
+<p>
+  Step 19:
 <img src="https://i.imgur.com/J80CLl7.png"/>
 </p>
 <p>
 Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
 </p>
-<br />
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
+
+<p>
+  Step 19:
+<img src="https://i.imgur.com/J80CLl7.png"/>
+</p>
+<p>
+Now, head back over to your container. Click on the "Upload" button. You can either drag and drop your file from your desktop, or you can upload from the file explorer. Click on the blue "Upload" button when ready.
+</p>
 
 <p>
   Step 19:
